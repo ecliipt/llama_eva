@@ -1,6 +1,8 @@
 # E.V.A project v5.0
 run 'pip install -r requirements.txt' to install needed requirements.
+
 tested on: python 3.8.2
+
 download the following models and place them in a new folder named 'models':
 
   (for the llama choose the q5_0 version)
